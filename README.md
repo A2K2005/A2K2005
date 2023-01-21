@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @A2K2005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m A2K
+- 👀 I’m interested in Web Develpment and Competitve programming
+- 🌱 I’m currently learning Full Stack web development as well as C/C++
+- 📫 You can reach me thorugh linkedin or instagram
 
-<!---
-A2K2005/A2K2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<
