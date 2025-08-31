@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">- 🌱 I’m currently learning **AI/ML, GenAI**<br><br>- 👯 I’m looking to collaborate on **Case Studies for business/product development**<br><br>- 🤝 I’m looking for help with **Competitive Programming, Learning New Stuffs :)**<br><br>- 💬 Ask me about **UI/UX, Vibe Coding, Tech**</p>
+<p align="left">- 🌱 I’m currently learning AI/ML, GenAI<br><br>- 👯 I’m looking to collaborate on Case Studies for business/product development<br><br>- 🤝 I’m looking for help with Competitive Programming, Learning New Stuffs :)<br><br>- 💬 Ask me about UI/UX, Vibe Coding, Tech</p>
 
 ###
 
