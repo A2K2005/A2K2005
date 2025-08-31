@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">- 🌱 I’m currently learning **AI/ML, GenAI**<br><br>- 👯 I’m looking to collaborate on **Case Studies for business/product development**<br><br>- 🤝 I’m looking for help with **Competitive Programming, Learning New Stuffs :)**<br><br>- 💬 Ask me about **UI/UX, Vibe Coding, Tech**</p>
 
 ###
@@ -106,9 +108,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">Connect with me:</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -120,6 +126,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img height="201" src="https://github-profile-trophy.vercel.app/?username=a2k2005"  />
@@ -135,6 +143,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/501e43f7744831d14c43c50655992a167006166d2b56f11cb5f35b3b64d04401/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61326b3230303526"  />
