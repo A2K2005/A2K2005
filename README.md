@@ -133,22 +133,6 @@
   <img height="201" src="https://github-profile-trophy.vercel.app/?username=a2k2005"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A2K2005&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="146" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=A2K2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/501e43f7744831d14c43c50655992a167006166d2b56f11cb5f35b3b64d04401/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61326b3230303526"  />
-</div>
 
 ###
 
