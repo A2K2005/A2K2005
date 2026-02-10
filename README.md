@@ -154,6 +154,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/A2K2005/A2K2005/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/user-attachments/assets/273edde2-0be6-4e94-80f0-09a60390dba2" alt="Snake animation" />
 
 ###
