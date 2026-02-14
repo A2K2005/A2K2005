@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A passionate Full Stack developer from India</h2>
+<h2 align="center">A passionate Full Stack developer and an Aspiring Product Manager from India</h2>
 
 ###
 
