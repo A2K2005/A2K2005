@@ -1,143 +1,74 @@
-<h1 align="center">Hi 👋, I'm Armaan</h1>
+<h1 align="center">Hey, I'm Armaan 👋</h1>
 
-###
+<h3 align="center">Product Manager. Technical enough to be dangerous.</h3>
 
-<h2 align="center">A passionate Full Stack developer and an Aspiring Product Manager from India</h2>
+<br/>
 
-###
+<img align="right" height="280" src="https://i.imgflip.com/9x226z.jpg" />
 
-<br clear="both">
+I build products in the **fintech x AI** space.
 
-<p align="left">- 🌱 I’m currently learning AI/ML, GenAI<br><br>- 👯 I’m looking to collaborate on Case Studies for business/product development<br><br>- 🤝 I’m looking for help with Competitive Programming, Learning New Stuffs :)<br><br>- 💬 Ask me about UI/UX, Vibe Coding, Tech</p>
+I'm not the PM who says *"can we get engineering to look at this?"* for every decision. I scope the problem, write the PRD, vibe-code a prototype to validate the idea, and hand it off with context, not just a ticket.
 
-###
+My sweet spot is ambiguous problems that need first-principles thinking before anyone writes a line of code.
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-###
+### How I work
 
-<img align="right" height="310" src="https://i.imgflip.com/9x226z.jpg"  />
+```
+Understand the problem deeply
+Question the obvious solution
+Define sharp scope
+Ship something
+Learn
+Repeat
+```
 
-###
+I'm allergic to feature factories and PRDs that exist just to exist.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="39" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="39" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="39" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="39" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="39" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="39" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="39" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="39" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="39" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="39" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="39" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="39" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="39" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="39" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="39" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="39" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="39" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="39" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="39" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="39" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="39" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="39" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="39" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="39" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="39" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="39" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="39" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="39" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="39" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="39" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="39" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="39" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="39" alt="r logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="39" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="39" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="39" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="39" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="39" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="39" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="39" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="39" alt="threejs logo"  />
-</div>
+---
 
-###
-
-<br clear="both">
-
-<h3 align="left">Connect with me:</h3>
-
-###
-
-<br clear="both">
+### The stack I actually use
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="linkedin.com/in/a2k-armaank" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="sql" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git" />
 </div>
 
-###
+<br/>
 
-<br clear="both">
+**PM side:** JIRA · Notion · Amplitude · Figma · Framer · SQL · Power BI · Agile
+
+**AI side:** Prompt Engineering · LLM-powered tooling · AI-assisted product development
+
+---
+
+### What I'm currently thinking about
+
+- How AI is changing the PM role and why most PMs are not ready for it
+- Credit scoring, fintech infrastructure, and why financial products are still broken for most users
+- The gap between a good product and a good business. They are not always the same thing.
+
+---
 
 <div align="center">
-  <img height="201" src="https://github-profile-trophy.vercel.app/?username=a2k2005"  />
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=a2k2005&theme=flat&no-frame=true&column=7" />
 </div>
 
-
-###
-
-<br clear="both">
+<br/>
 
 <img src="https://github.com/user-attachments/assets/273edde2-0be6-4e94-80f0-09a60390dba2" alt="Snake animation" />
-
-###
